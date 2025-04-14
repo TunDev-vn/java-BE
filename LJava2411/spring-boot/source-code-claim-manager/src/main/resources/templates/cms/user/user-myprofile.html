@@ -48,7 +48,7 @@
                                              th:src="${'../assets/img/avatars/' + session.currentUser.pathAvatar}"
                                              alt="user-avatar" class="d-block rounded" height="100" width="100" id="uploadedAvatar" />
                                         <img th:unless="${session.currentUser != null && session.currentUser.pathAvatar != null && !session.currentUser.pathAvatar.isEmpty()}"
-                                             src="/assets/img/avatars/admin.png"
+                                             src="/assets/img/avatars/default-avt.png"
                                              alt="user-avatar" class="d-block rounded" height="100" width="100" id="defaultAvatar" />
                                         <div class="button-wrapper">
                                             <label for="upload" class="btn btn-primary me-2 mb-4" tabindex="0">
@@ -81,7 +81,7 @@
                                             <div class="mb-3 col-md-6">
                                                 <label for="password" class="form-label">Password</label>
                                                 <input class="form-control" type="password" id="password" name="password"
-                                                       placeholder="Leave blank to keep current password" />
+                                                       placeholder="Passwoed is hidden" />
                                             </div>
                                             <div class="mb-3 col-md-6">
                                                 <label for="code" class="form-label">Code</label>
@@ -140,9 +140,7 @@
                                             <div class="mb-3 col-md-6">
                                                 <label class="form-label">Roles</label>
                                                 <div class="form-control" style="height: auto;">
-                                                    <span th:if="${session.currentUser != null && !session.currentUser.roles.isEmpty()}"
-                                                          th:text="${#strings.listJoin(session.currentUser.roles.![name], ', ')}"></span>
-                                                    <span th:unless="${session.currentUser != null && !session.currentUser.roles.isEmpty()}">No roles assigned</span>
+                                                    <span th:text="${#strings.listJoin(session.currentUser.roles.![name], ', ')}"></span>
                                                 </div>
                                             </div>
                                         </div>
