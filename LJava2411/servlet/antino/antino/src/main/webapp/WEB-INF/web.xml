@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+
+    <display-name>antino</display-name>
+
+    <!-- Define the servlet -->
+    <servlet>
+        <servlet-name>HomeServlet</servlet-name>
+        <servlet-class>vn.com.t3h.antino.controller.HomeServlet</servlet-class>
+    </servlet>
+
+    <!-- Map the servlet to a URL pattern -->
+    <servlet-mapping>
+        <servlet-name>HomeServlet</servlet-name>
+        <url-pattern>/home</url-pattern>
+    </servlet-mapping>
+
+<!--    config utf-8 all req and response -->
+    <filter>
+        <filter-name>CharacterEncodingFilter</filter-name>
+        <filter-class>vn.com.t3h.antino.config.CharacterEncodingFilter</filter-class>
+        <init-param>
+            <param-name>encoding</param-name>
+            <param-value>UTF-8</param-value>
+        </init-param>
+    </filter>
+
+    <filter-mapping>
+        <filter-name>CharacterEncodingFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+<!--config filter all request before come to Servlet controller-->
+<!--    <filter>-->
+<!--        <filter-name>authorFilter</filter-name>-->
+<!--        <filter-class>vn.com.t3h.antino.security.filter.AuthorizationFilter</filter-class>-->
+<!--    </filter>-->
+<!--    <filter-mapping>-->
+<!--        <filter-name>authorFilter</filter-name>-->
+<!--        <url-pattern>/*</url-pattern>-->
+<!--    </filter-mapping>-->
+
+
+    <!--    default luon hien thi trang nay khi moi start app, neu khong no se tim file index.jsp-->
+    <welcome-file-list>
+        <welcome-file>home-page.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>

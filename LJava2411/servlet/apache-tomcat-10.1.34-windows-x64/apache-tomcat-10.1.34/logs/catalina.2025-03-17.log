@@ -1,0 +1,164 @@
+17-Mar-2025 19:42:36.918 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.34
+17-Mar-2025 19:42:36.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 16:01:16 UTC
+17-Mar-2025 19:42:36.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.34.0
+17-Mar-2025 19:42:36.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+17-Mar-2025 19:42:36.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Mar-2025 19:42:36.931 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Mar-2025 19:42:36.931 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\7390\.jdks\corretto-17.0.8.1
+17-Mar-2025 19:42:36.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.8.1+8-LTS
+17-Mar-2025 19:42:36.933 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+17-Mar-2025 19:42:36.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:42:36.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:42:36.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\conf\logging.properties
+17-Mar-2025 19:42:36.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Mar-2025 19:42:36.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Mar-2025 19:42:36.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Mar-2025 19:42:36.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-Mar-2025 19:42:36.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-Mar-2025 19:42:36.985 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+17-Mar-2025 19:42:36.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-Mar-2025 19:42:36.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-Mar-2025 19:42:36.992 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:42:36.994 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:42:36.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\temp
+17-Mar-2025 19:42:37.791 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+17-Mar-2025 19:42:37.805 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+17-Mar-2025 19:42:38.435 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:42:38.531 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2076] milliseconds
+17-Mar-2025 19:42:38.742 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Mar-2025 19:42:38.747 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.34]
+17-Mar-2025 19:42:38.811 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\docs]
+17-Mar-2025 19:42:39.794 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [134] milliseconds.
+17-Mar-2025 19:42:39.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\docs] has finished in [1,054] ms
+17-Mar-2025 19:42:39.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\examples]
+17-Mar-2025 19:42:43.353 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\examples] has finished in [3,488] ms
+17-Mar-2025 19:42:43.354 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\host-manager]
+17-Mar-2025 19:42:43.502 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\host-manager] has finished in [147] ms
+17-Mar-2025 19:42:43.503 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\manager]
+17-Mar-2025 19:42:43.617 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\manager] has finished in [114] ms
+17-Mar-2025 19:42:43.618 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\ROOT]
+17-Mar-2025 19:42:53.676 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Mar-2025 19:42:54.383 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+17-Mar-2025 19:42:57.100 INFO [main] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Mar-2025 19:42:57.417 INFO [main] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 5.6.15.Final
+17-Mar-2025 19:42:58.323 INFO [main] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+17-Mar-2025 19:43:00.067 INFO [main] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Mar-2025 19:43:03.615 INFO [main] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Mar-2025 19:43:03.685 INFO [main] org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Mar-2025 19:43:05.336 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 10950 ms
+17-Mar-2025 19:43:05.351 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\ROOT] has finished in [21,732] ms
+17-Mar-2025 19:43:05.357 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:43:05.408 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [26877] milliseconds
+17-Mar-2025 19:43:21.060 WARNING [http-nio-8080-exec-6] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /img/50px.png
+17-Mar-2025 19:43:21.099 WARNING [http-nio-8080-exec-6] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /img/50px.png.
+17-Mar-2025 19:43:21.305 WARNING [http-nio-8080-exec-7] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /img/200px.png
+17-Mar-2025 19:43:21.312 WARNING [http-nio-8080-exec-7] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /img/200px.png.
+17-Mar-2025 19:43:21.738 WARNING [http-nio-8080-exec-9] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /img/200px.png
+17-Mar-2025 19:43:21.740 WARNING [http-nio-8080-exec-8] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /img/50px.png
+17-Mar-2025 19:43:21.745 WARNING [http-nio-8080-exec-9] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /img/200px.png.
+17-Mar-2025 19:43:21.747 WARNING [http-nio-8080-exec-8] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /img/50px.png.
+17-Mar-2025 19:45:03.943 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:45:04.416 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Mar-2025 19:45:04.424 INFO [Thread-1] org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy Closing JPA EntityManagerFactory for persistence unit 'default'
+17-Mar-2025 19:45:04.437 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+17-Mar-2025 19:45:04.438 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ROOT] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+ java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+17-Mar-2025 19:45:04.494 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:45:04.509 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:46:21.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.34
+17-Mar-2025 19:46:21.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 16:01:16 UTC
+17-Mar-2025 19:46:21.687 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.34.0
+17-Mar-2025 19:46:21.687 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+17-Mar-2025 19:46:21.688 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Mar-2025 19:46:21.688 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Mar-2025 19:46:21.688 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\7390\.jdks\corretto-17.0.8.1
+17-Mar-2025 19:46:21.688 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.8.1+8-LTS
+17-Mar-2025 19:46:21.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+17-Mar-2025 19:46:21.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:46:21.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:46:21.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\conf\logging.properties
+17-Mar-2025 19:46:21.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Mar-2025 19:46:21.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Mar-2025 19:46:21.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Mar-2025 19:46:21.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-Mar-2025 19:46:21.710 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-Mar-2025 19:46:21.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+17-Mar-2025 19:46:21.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-Mar-2025 19:46:21.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-Mar-2025 19:46:21.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:46:21.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34
+17-Mar-2025 19:46:21.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\temp
+17-Mar-2025 19:46:21.722 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+17-Mar-2025 19:46:21.740 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+17-Mar-2025 19:46:22.387 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:46:22.484 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1222] milliseconds
+17-Mar-2025 19:46:22.632 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Mar-2025 19:46:22.633 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.34]
+17-Mar-2025 19:46:22.676 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\docs]
+17-Mar-2025 19:46:23.565 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [156] milliseconds.
+17-Mar-2025 19:46:23.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\docs] has finished in [951] ms
+17-Mar-2025 19:46:23.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\examples]
+17-Mar-2025 19:46:24.594 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\examples] has finished in [965] ms
+17-Mar-2025 19:46:24.595 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\host-manager]
+17-Mar-2025 19:46:24.726 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\host-manager] has finished in [131] ms
+17-Mar-2025 19:46:24.727 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\manager]
+17-Mar-2025 19:46:24.843 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\manager] has finished in [117] ms
+17-Mar-2025 19:46:24.844 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\ROOT]
+17-Mar-2025 19:46:30.957 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Mar-2025 19:46:31.609 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+17-Mar-2025 19:46:34.238 INFO [main] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Mar-2025 19:46:34.532 INFO [main] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 5.6.15.Final
+17-Mar-2025 19:46:35.352 INFO [main] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+17-Mar-2025 19:46:36.879 INFO [main] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Mar-2025 19:46:39.996 INFO [main] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Mar-2025 19:46:40.057 INFO [main] org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Mar-2025 19:46:41.759 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 10146 ms
+17-Mar-2025 19:46:41.790 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\ROOT] has finished in [16,946] ms
+17-Mar-2025 19:46:41.801 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:46:41.874 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [19388] milliseconds
+17-Mar-2025 19:47:58.888 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\book-shop.war]
+17-Mar-2025 19:48:08.985 INFO [http-nio-8080-exec-10] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17-Mar-2025 19:48:09.443 INFO [http-nio-8080-exec-10] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+17-Mar-2025 19:48:11.715 INFO [http-nio-8080-exec-10] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [name: default]
+17-Mar-2025 19:48:11.973 INFO [http-nio-8080-exec-10] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 5.6.15.Final
+17-Mar-2025 19:48:12.863 INFO [http-nio-8080-exec-10] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+17-Mar-2025 19:48:14.304 INFO [http-nio-8080-exec-10] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+17-Mar-2025 19:48:18.701 INFO [http-nio-8080-exec-10] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17-Mar-2025 19:48:18.768 INFO [http-nio-8080-exec-10] org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory Initialized JPA EntityManagerFactory for persistence unit 'default'
+17-Mar-2025 19:48:20.661 INFO [http-nio-8080-exec-10] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 11217 ms
+17-Mar-2025 19:48:20.674 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\T3h\LJava2411\github\LJava2411\LJava2411\servlet\apache-tomcat-10.1.34-windows-x64\apache-tomcat-10.1.34\webapps\book-shop.war] has finished in [21,787] ms
+17-Mar-2025 19:49:25.204 WARNING [http-nio-8080-exec-10] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /book-shop/img/50px.png
+17-Mar-2025 19:49:25.226 WARNING [http-nio-8080-exec-10] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /book-shop/img/50px.png.
+17-Mar-2025 19:49:25.418 WARNING [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /book-shop/img/200px.png
+17-Mar-2025 19:49:25.422 WARNING [http-nio-8080-exec-1] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /book-shop/img/200px.png.
+17-Mar-2025 19:49:25.817 WARNING [http-nio-8080-exec-6] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /book-shop/img/200px.png
+17-Mar-2025 19:49:25.817 WARNING [http-nio-8080-exec-4] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /book-shop/img/50px.png
+17-Mar-2025 19:49:25.818 WARNING [http-nio-8080-exec-6] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /book-shop/img/200px.png.
+17-Mar-2025 19:49:25.818 WARNING [http-nio-8080-exec-4] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.handleNoHandlerFoundException No endpoint GET /book-shop/img/50px.png.
+17-Mar-2025 19:49:55.415 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:49:55.901 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Mar-2025 19:49:55.906 INFO [Thread-1] org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy Closing JPA EntityManagerFactory for persistence unit 'default'
+17-Mar-2025 19:49:55.915 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ROOT] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+17-Mar-2025 19:49:55.916 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ROOT] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+ java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+17-Mar-2025 19:49:55.948 INFO [Thread-1] org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.destroy Closing JPA EntityManagerFactory for persistence unit 'default'
+17-Mar-2025 19:49:55.962 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [book-shop] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+17-Mar-2025 19:49:55.964 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [book-shop] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+ java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+17-Mar-2025 19:49:56.010 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Mar-2025 19:49:56.027 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
